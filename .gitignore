@@ -1,0 +1,6 @@
+artifacts/
+cache/
+node_modules/
+
+.env_a
+package-lock.json
